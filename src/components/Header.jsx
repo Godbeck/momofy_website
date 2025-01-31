@@ -42,7 +42,7 @@ const Header = () => {
               </p>
               <button className="w-fit mx-auto md:mx-0 bg-black pl-2 py-3 pr-6 rounded">
                 <a href="">
-                  <img src={assets.Play2} alt="" className="w-[120px]" />
+                  <img src={assets.play} alt="" className="w-[120px]" />
                 </a>
               </button>
             </motion.div>

@@ -9,7 +9,7 @@ import Instagram from "./Instagram.png";
 import LinkedIn from "./LinkedIn.png";
 import Twitter from "./Twitter.png";
 import mail_outline from "./mail_outline.png";
-import Play2 from "./Play2.png";
+import play from "./play.png";
 import menu_icon from "./Menu-23.svg";
 import cross_icon from "./cross_icon.svg";
 import Mail_inverse from "./Mail_inverse.png";
@@ -20,7 +20,7 @@ export const assets = {
   phone_2,
   menu_icon,
   cross_icon,
-  Play2,
+  play,
   Mail_inverse,
   Phone,
   Location,
